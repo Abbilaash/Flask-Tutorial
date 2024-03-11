@@ -1,0 +1,4 @@
+This part teaches you the basic concepts of web development and website development with flask.
+In this session you learn about the basic structure of a flask client code, how requests are handled, how routing works and how redirecting works.
+
+

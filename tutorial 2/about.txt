@@ -1,0 +1,2 @@
+In this tutorial we will learn how to pass arguments from one page to other and how to use html css templates with flask backend.
+We will also discuss about how to pass values from python to html pages.
