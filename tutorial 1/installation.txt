@@ -1,0 +1,10 @@
+Flask installation in Windows and Linux:
+
+Step 1: Make sure python pip is installed in your operating system. you can check it by the following command.
+`pip --version`
+
+Step 2: Open the command prompt in sudo/admin mode and run the following command.
+`pip install Flask`
+Step 3: You can check the installation by typing the following commands.
+`python`
+`import flask`
